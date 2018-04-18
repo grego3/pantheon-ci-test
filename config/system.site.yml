@@ -1,0 +1,14 @@
+uuid: f0bde296-802b-44fe-a27b-dde427821a04
+name: pantheon-ci-test
+mail: greg@o3world.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

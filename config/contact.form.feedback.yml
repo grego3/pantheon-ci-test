@@ -1,0 +1,14 @@
+uuid: c32dfdf2-83c3-42ca-8950-e23e5ea5346a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - greg@o3world.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
